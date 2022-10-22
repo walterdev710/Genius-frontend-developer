@@ -1,16 +1,23 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**Genius-frontend-developer/Genius-frontend-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, I'm Walter O'Brien
+## Frontend Developer 👨‍💻
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/LinkedIn-Genius-frontend-developer-blue)](https://www.linkedin.com/in/abdullabek-adilov-831095243/)
+[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:Abdullabek710@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const walter = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["frontend dev", "web dev", "learner"],
+    technologies:{
+        fronEnd: ["react", "javascript", "next"],
+        misc: ["Firebase"]
+    }
+```
+
+---
+⭐️ From [@walter](https://github.com/Genius-frontend-developer)
