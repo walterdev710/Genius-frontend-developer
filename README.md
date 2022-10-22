@@ -3,8 +3,8 @@
 ## Hello, I'm Walter O'Brien
 ## Frontend Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-Genius-frontend-developer-blue)](https://www.linkedin.com/in/abdullabek-adilov-831095243/)
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:Abdullabek710@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-Walter-blue)](https://www.linkedin.com/in/abdullabek-adilov-831095243/)
+[![](https://img.shields.io/badge/Gmail-Waltergmail.com-red)](mailto:Abdullabek710@gmail.com)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
